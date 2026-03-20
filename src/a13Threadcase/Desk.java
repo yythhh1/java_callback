@@ -9,7 +9,7 @@ public class Desk {
     public static int foodFlag = 0;
 
     //总个数
-    public static int count = 0;
+    public static int count = 10;
 
     //锁对象
     public static Object lock = new Object();
